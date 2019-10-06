@@ -1,6 +1,10 @@
 # konfiguracja środowiska
 
-### Ulubione komendy z linuxa
+### Ulubione komendy z linuxa 5.10.2019
+
+```sh
+brew install git
+```
 
 ```sh
 pwd
