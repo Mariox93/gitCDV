@@ -1,3 +1,6 @@
+###logo 
+![alt text](https://cdv.pl/wp-content/uploads/2018/02/logo.svg "Logo CDV")
+
 # konfiguracja środowiska
 
 ### instalacja git'a poprzez homebrew
@@ -44,9 +47,4 @@ assert "No results found." not in driver.page_source
 driver.close()
 ```
 
-###logo 
-![alt text](https://cdv.pl/wp-content/uploads/2018/02/logo.svg "Logo CDV")
 
-
-###Video
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
