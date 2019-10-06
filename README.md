@@ -2,12 +2,12 @@
 
 ### Ulubione komendy z linuxa
 
-'''sh
+```sh
 pwd
 ls
 mkdir
 touch
-'''
+```
 
 
 
