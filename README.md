@@ -7,6 +7,9 @@ pwd
 ls
 mkdir
 touch
+chmod
+cd
+mv
 ```
 
 
